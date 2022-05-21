@@ -40,7 +40,7 @@ DWORD GetProcId(const char* procName)
 }
 
 int main(int argc, const char* argv[]) {
-	SetConsoleTitleA("EzInjector | By MasterDev#6666 | Discord : https://discord.gg/kzveCJmDbG");
+	SetConsoleTitleA("EzInjector | By InkaWeb#6666 | Discord : https://discord.gg/eBNkgWWzSt");
 	system("clear");
 
 	// --> system("curl {Link Download} --output {Chemin du download de la DLL} >nul 2>&1"); <--
@@ -49,7 +49,7 @@ int main(int argc, const char* argv[]) {
 	cout << "[" << con::fg_green << "/" << con::fg_white << "] Please press ENTER to " << con::fg_green << "inject " << con::fg_white << "!" << endl;
 	std::cout << "\n";
 
-	// dllPath : Chemin de la DLL qui a été defini dans le --> system("curl {Link Download} --output {Chemin de la DLL}..."); <--
+	// dllPath : Chemin de la DLL qui a Ã©tÃ© defini dans le --> system("curl {Link Download} --output {Chemin de la DLL}..."); <--
 	// procName : Nom du processus qui va recevoir la DLL
 
 	const char* dllPath = "C:\\Windows\\exemple.dll";
