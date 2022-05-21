@@ -10,4 +10,4 @@
 #### ![a483d1e7956a2d1010b235d5bef846c6](https://media.discordapp.net/attachments/903726487679692820/942540845247242260/unknown.png)
 
 
-## Credit [ MasterDev ]
+## Credit [ InkaWeb ]
