@@ -8,7 +8,7 @@
 using namespace std;
 namespace con = JadedHoboConsole;
 
-//// By MasterDev and documentation on forum //////
+//// By InkaWeb and documentation on forum //////
 // Github : https://github.com/Student-MasterDev //
 // Discord : https://discord.gg/zrdFGSa7rz       //
 ///////////////////////////////////////////////////
